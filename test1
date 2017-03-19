@@ -1,4 +1,7 @@
 <?php
   $a="hello git,learning...";
-  echo"$a";
+  $b=2;
+  $c=3;
+  $d=$b>$c?$b:$c;
+  echo""$a"."$d"";
 >
